@@ -1,13 +1,13 @@
 {
   "name": "food-app",
   "version": "1.0.0",
-  "description": "This is a food app",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "sanauar ansari",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
